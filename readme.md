@@ -11,6 +11,17 @@
     </a>
 </p>
 
+## Fork
+
+This is my personal fork of [rose-pine/tmux](https://github.com/rose-pine/tmux). It exists for two
+main reasons:
+
+- You can't have installed several tmux plugins named `tmux` (like this one and 
+[catppuccin/tmux](https://github.com/catppuccin/tmux)) at the same time. This is an issue for me as
+I want to be able to quickly switch between different themes without re-installing them.
+
+- This enables additional customization possibilities.
+
 ## Usage
 
 > NOTE: It uses a [Nerdfont](https://www.nerdfonts.com/font-downloads) by default for the icons, so it is recommended to have a Nerdfont set as your terminal font
